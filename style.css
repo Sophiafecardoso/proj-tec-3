@@ -9,7 +9,7 @@
 
 body {
     background-color: var(--cor-de-fundo);
-    color: var(--rosa-principal);
+    color: var(--branco-principal);
     font-family: var(--fonte-principal);
     font-size: 16px;
     font-weight: 400;
@@ -21,7 +21,7 @@ body {
 }
 
 .principal {
-    background-image: url("img/Background.png");
+    background-image: url("Background.png");
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
@@ -79,7 +79,7 @@ body {
 .descricao__titulo {
     font-weight: 700;
     font-size: 48px;
-    color: var(--branco-principal);
+    color: var(--cor-de-fundo);
     margin-bottom: 0.1em;
 }
 
@@ -131,7 +131,7 @@ body {
 
 .lista__link a{
     text-decoration: none;
-    color: var(--branco-principal);
+    color: var(--rosa-principal);
     margin-left: 1em;
 }
 
